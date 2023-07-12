@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.48f09553.css",
+    "main.js": "/Portfolio/static/js/main.01060e07.js",
+    "static/media/Project5.png": "/Portfolio/static/media/Project5.4dd6b140819e3809ab2e.png",
+    "static/media/aboutBW.png": "/Portfolio/static/media/aboutBW.8a1e57f8a8db4ac029a9.png",
+    "static/media/profileBW.jpeg": "/Portfolio/static/media/profileBW.6633f97485cf1271ad25.jpeg",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.3cefddc238181377a76e.png",
+    "static/media/expense_tracker.png": "/Portfolio/static/media/expense_tracker.ad59af299a5846afd717.png",
+    "static/media/MitilJawale_Professional_Resume.pdf": "/Portfolio/static/media/MitilJawale_Professional_Resume.d4a958e61f24ff08788d.pdf",
+    "static/media/project3.webp": "/Portfolio/static/media/project3.b094b696f75369270c95.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.48f09553.css.map": "/Portfolio/static/css/main.48f09553.css.map",
+    "main.01060e07.js.map": "/Portfolio/static/js/main.01060e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f09553.css",
+    "static/js/main.01060e07.js"
+  ]
+}
